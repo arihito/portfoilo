@@ -1,3 +1,8 @@
 @charset "utf-8";
 @import "grid";
 @import "kanban";
+
+img {
+	border: 1px solid #eee;
+	box-shadow: 0 0 10px #ccc;
+}
